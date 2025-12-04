@@ -1,0 +1,18 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+frontend/.env
+backend/.env
+
+# Vite cache
+dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
